@@ -1,0 +1,5 @@
+numpy>=1.24
+pandas>=2.0
+# Optional: scikit-learn enables the gradient-boosted backend in meta_labeler.
+# Without it, a dependency-free numpy logistic regression is used as the fallback.
+# scikit-learn>=1.3

@@ -1,0 +1,10 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+*.pkl
+datasets/
+data/
+.pytest_cache/
+.DS_Store
