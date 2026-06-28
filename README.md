@@ -1,5 +1,7 @@
 # Decision-time meta-labeling: an honest take/skip evaluation harness
 
+[![tests](https://github.com/efenn-dev/meta-labeling-harness/actions/workflows/ci.yml/badge.svg)](https://github.com/efenn-dev/meta-labeling-harness/actions/workflows/ci.yml)
+
 A small, dependency-light harness for the question most trading-ML code quietly
 dodges: *does this signal actually have edge — net of costs, out of sample, and
 over and above just being long the market?* It learns a **take/skip** decision on
